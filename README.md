@@ -1,0 +1,1 @@
+A ideia da nova funcionalidade seria adicionar uma opção para todas as ferramentas que utilizam IA no Adobe Lightroom Mobile, como é possível visualizar na foto presente, a última opção irá reunir todas as funções, facilitando a localização delas.![lightroomAI](https://github.com/user-attachments/assets/b9d68715-db37-4585-8d0b-ba7351d30fe5)
